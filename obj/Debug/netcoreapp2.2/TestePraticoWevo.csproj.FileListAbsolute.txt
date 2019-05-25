@@ -1,0 +1,14 @@
+C:\Users\Ron\Documents\TestePraticoWevo\bin\Debug\netcoreapp2.2\TestePraticoWevo.deps.json
+C:\Users\Ron\Documents\TestePraticoWevo\bin\Debug\netcoreapp2.2\TestePraticoWevo.runtimeconfig.json
+C:\Users\Ron\Documents\TestePraticoWevo\bin\Debug\netcoreapp2.2\TestePraticoWevo.runtimeconfig.dev.json
+C:\Users\Ron\Documents\TestePraticoWevo\bin\Debug\netcoreapp2.2\TestePraticoWevo.dll
+C:\Users\Ron\Documents\TestePraticoWevo\bin\Debug\netcoreapp2.2\TestePraticoWevo.pdb
+C:\Users\Ron\Documents\TestePraticoWevo\obj\Debug\netcoreapp2.2\TestePraticoWevo.csprojAssemblyReference.cache
+C:\Users\Ron\Documents\TestePraticoWevo\obj\Debug\netcoreapp2.2\TestePraticoWevo.csproj.CoreCompileInputs.cache
+C:\Users\Ron\Documents\TestePraticoWevo\obj\Debug\netcoreapp2.2\TestePraticoWevo.RazorAssemblyInfo.cache
+C:\Users\Ron\Documents\TestePraticoWevo\obj\Debug\netcoreapp2.2\TestePraticoWevo.RazorAssemblyInfo.cs
+C:\Users\Ron\Documents\TestePraticoWevo\obj\Debug\netcoreapp2.2\TestePraticoWevo.AssemblyInfoInputs.cache
+C:\Users\Ron\Documents\TestePraticoWevo\obj\Debug\netcoreapp2.2\TestePraticoWevo.AssemblyInfo.cs
+C:\Users\Ron\Documents\TestePraticoWevo\obj\Debug\netcoreapp2.2\TestePraticoWevo.RazorTargetAssemblyInfo.cache
+C:\Users\Ron\Documents\TestePraticoWevo\obj\Debug\netcoreapp2.2\TestePraticoWevo.dll
+C:\Users\Ron\Documents\TestePraticoWevo\obj\Debug\netcoreapp2.2\TestePraticoWevo.pdb
